@@ -3,7 +3,7 @@ I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 
 ## About me
 - 💬 Background in Computational Linguistics
-- 💻 Data analyst with 3+ years of professional experience in edTech and operations
+- 💻 Data analyst with 3+ years of professional experience
 - 📊 All about data: love to collect, automate, visualize and analyze
 - 📚 Constantly learning...
 - 🪡 ... and crafting
@@ -12,7 +12,7 @@ I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 - **Data analysis and visualization**: pandas, numpy, matplotlib, seaborn, scipy
 - **ETL**: Apache Airflow, requests, Selenium
 - **Reporting**: Yandex Datalens, Apache Superset
-- **Databases**: PostgreSQL, Clickhouse
+- **Data modeling**: PostgreSQL, Clickhouse
 - **Machine learning**: sklearn, pytorch
 
 ## My portfolio
