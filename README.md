@@ -1,5 +1,4 @@
 ## Hi there! ✌️
-
 I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 
 ## About me
@@ -8,6 +7,13 @@ I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 - 📊 All about data: love to collect, automate, visualize and analyze
 - 📚 Constantly learning...
 - 🪡 ... and crafting
+
+## Key skills and stack
+- **Data analysis and visualization**: pandas, numpy, matplotlib, seaborn, scipy
+- **ETL**: Apache Airflow, requests, Selenium
+- **Reporting**: Yandex Datalens, Apache Superset
+- **Databases**: PostgreSQL, Clickhouse
+- **Machine learning**: sklearn, pytorch
 
 ## My portfolio
 - [End-to-end IUCN Red List analytics](https://github.com/liminovna/IUCN-dashboard) `Python` `SQL` `Airflow` `ClickHouse` `Superset` `data-warehousing` `data-quality` `data-analysis` `data-visualization`
