@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there! ✌️
 
+I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
+
+## About me
+- 💬 Background in Computational Linguistics
+- 💻 Data analyst with 3+ years of professional experience in edTech and operations
+- 📊 All about data: love to collect, automate, visualize and analyze
+- 📚 Constantly learning...
+- 🪡 ... and crafting
 <!--
 **liminovna/liminovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
