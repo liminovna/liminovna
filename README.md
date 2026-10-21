@@ -10,8 +10,8 @@ I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 - 🪡 ... and crafting
 
 ## My portfolio
-- [End-to-end IUCN Red List analytics](https://github.com/liminovna/IUCN-dashboard) `#Python` `SQL` `#Airflow` `#ClickHouse` `#Superset` `#data-warehousing` `#data-quality` `#data-analysis` `#data-visualization`
-- [Kazakh-Russian Code-switching Corpus](https://github.com/liminovna/KazRusCSW) `#Python` `#machine-learning` `#deep-learning` `#data-scraping` `#linguistic-analysis`
+- [End-to-end IUCN Red List analytics](https://github.com/liminovna/IUCN-dashboard) `Python` `SQL` `Airflow` `ClickHouse` `Superset` `data-warehousing` `data-quality` `data-analysis` `data-visualization`
+- [Kazakh-Russian Code-switching Corpus](https://github.com/liminovna/KazRusCSW) `Python` `machine-learning` `deep-learning` `data-scraping` `linguistic-analysis`
 
 <!--
 **liminovna/liminovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
