@@ -8,6 +8,10 @@ I am a fullstack data analyst and an NLP enthusiast based in Kazakhstan.
 - 📊 All about data: love to collect, automate, visualize and analyze
 - 📚 Constantly learning...
 - 🪡 ... and crafting
+
+## My portfolio
+- [End-to-end IUCN Red List analytics](https://github.com/liminovna/IUCN-dashboard) `#Airflow` `#ClickHouse` `#Superset` `#data-warehousing` `#data-quality` `#data-analysis` `#data-visualization`
+
 <!--
 **liminovna/liminovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
